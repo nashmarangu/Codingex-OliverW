@@ -1,0 +1,15 @@
+* {
+  margin-top: 60px;
+}
+h1 {
+  padding-bottom: 40px;
+}
+.vis {
+  text-align: center;
+  padding-top: 50px;
+}
+.char {
+  text-align: center;
+  padding: 40px;
+  width: 800px;
+}
